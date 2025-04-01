@@ -1,0 +1,18 @@
+-- beginning of main  
+--------- beginning of system  
+--------- beginning of crash  
+---------------------------- PROCESS STARTED (14567) for package com.example.myapp ----------------------------  
+2025-04-01 21:15:32.123 14567-14567 GraphicsEnvironment     com.example.myapp                V  ANGLE Developer option for 'com.example.myapp' set to: 'default'  
+2025-04-01 21:15:32.124 14567-14567 GraphicsEnvironment     com.example.myapp                V  Neither updatable production driver nor prerelease driver is supported.  
+2025-04-01 21:15:32.142 14567-14567 NetworkSecurityConfig   com.example.myapp                D  No Network Security Config specified, using platform default  
+2025-04-01 21:15:32.145 14567-14567 NetworkSecurityConfig   com.example.myapp                D  No Network Security Config specified, using platform default  
+2025-04-01 21:15:32.398 14567-14567 FirebaseApp             com.example.myapp                I  Device unlocked: initializing all Firebase APIs for app [DEFAULT]  
+2025-04-01 21:15:32.412 14567-14567 FirebaseInitProvider    com.example.myapp                I  FirebaseApp initialization successful  
+2025-04-01 21:15:32.789 14567-14720 libEGL                  com.example.myapp                D  loaded /vendor/lib64/egl/libEGL_emulation.so  
+2025-04-01 21:15:32.800 14567-14720 libEGL                  com.example.myapp                D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so  
+2025-04-01 21:15:32.811 14567-14720 libEGL                  com.example.myapp                D  loaded /vendor/lib64/egl/libGLESv2_emulation.so  
+2025-04-01 21:15:32.865 14567-14567 AppCompatDelegate       com.example.myapp                D  Checking for metadata for AppLocalesMetadataHolderService : Service not found  
+2025-04-01 21:15:32.956 14567-14582 System                  com.example.myapp                W  A resource failed to call close.  
+2025-04-01 21:15:33.201 14567-14567 MyAppUI                 com.example.myapp                W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)  
+2025-04-01 21:15:33.497 14567-14567 Choreographer           com.example.myapp                I  Skipped 38 frames!  The application may be doing too much.  
+
